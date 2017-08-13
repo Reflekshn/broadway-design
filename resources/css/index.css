@@ -1,9 +1,16 @@
-html {
+body {
   font-family: Helvetica;
+  text-align: center;
 }
 
-#header_background {
+.header_background {
   background-image: url("../img/the-flatiron-building.png");
+}
+
+.nav_link {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
 
 h1 {
@@ -13,11 +20,11 @@ h1 {
 }
 
 h2 {
-  font-size: 18px;
-  color: white;
+  font-size: 32px;
+  font-weight: bold;
 }
 
 h3 {
-  font-size: 32px;
+  font-size: 23px;
   font-weight: bold;
 }
