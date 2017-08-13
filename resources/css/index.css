@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   text-align: center;
 }
 
@@ -10,7 +10,13 @@ body {
 .nav_link {
   font-size: 18px;
   color: white;
-  font-weight: bold;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
 }
 
 h1 {
